@@ -59,7 +59,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneURL",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"https:\/\/play.workadventu.re\/_\/global\/art-meeting.github.io\/mnk-freiburg-eingang\/map.json"
                 }],
