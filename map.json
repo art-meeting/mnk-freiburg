@@ -567,6 +567,12 @@
          "id":58,
          "name":"Raum 6 - txt",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/shares\/Institute\/Kunst\/Spielmann_Workadventure\/mnk\/bilder\/R6-txt.jpg\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":87,
