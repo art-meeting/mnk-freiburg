@@ -459,6 +459,12 @@
          "id":17,
          "name":"Raum 7 - Mann_mit_Schaufel - Foto 28",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/shares\/Institute\/Kunst\/Spielmann_Workadventure\/mnk\/bilder\/R7-Foto28.jpg\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":87,
@@ -471,6 +477,12 @@
          "id":18,
          "name":"Raum 7 - Foto 29",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/shares\/Institute\/Kunst\/Spielmann_Workadventure\/mnk\/bilder\/R7-Foto29.jpg\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":87,
@@ -483,6 +495,12 @@
          "id":19,
          "name":"Raum 7 - txt",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/shares\/Institute\/Kunst\/Spielmann_Workadventure\/mnk\/bilder\/R7-txt.jpg\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":87,
