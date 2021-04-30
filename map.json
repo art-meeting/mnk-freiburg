@@ -651,6 +651,12 @@
          "id":63,
          "name":"Raum 6 - mann_Frau_Rot - Foto 24",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/shares\/Institute\/Kunst\/Spielmann_Workadventure\/mnk\/bilder\/R6-Foto24.jpg\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":87,
