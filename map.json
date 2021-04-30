@@ -513,6 +513,12 @@
          "id":20,
          "name":"Raum 7 - Foto 10",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/shares\/Institute\/Kunst\/Spielmann_Workadventure\/mnk\/bilder\/R7-Foto10.jpg\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":87,
