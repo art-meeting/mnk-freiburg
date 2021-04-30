@@ -663,6 +663,12 @@
          "id":56,
          "name":"Raum 5 - txt",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/shares\/Institute\/Kunst\/Spielmann_Workadventure\/mnk\/bilder\/R5-txt.jpg\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":87,
@@ -675,6 +681,12 @@
          "id":57,
          "name":"Raum 5 - Exit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/shares\/Institute\/Kunst\/Spielmann_Workadventure\/mnk\/bilder\/R5-exit.jpg"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":87,
