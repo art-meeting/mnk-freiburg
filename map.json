@@ -597,6 +597,12 @@
          "id":60,
          "name":"Raum 6 - Mann mit Schaufel - Foto 14",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/shares\/Institute\/Kunst\/Spielmann_Workadventure\/mnk\/bilder\/R6-Foto14.jpg\n"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":87,
