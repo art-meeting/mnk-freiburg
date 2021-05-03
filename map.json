@@ -601,7 +601,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/shares\/Institute\/Kunst\/Spielmann_Workadventure\/mnk\/bilder\/R8-Fussball-06.jpg"
+                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/shares\/Institute\/Kunst\/Spielmann_Workadventure\/mnk\/bilder\/R8-fussball-06.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
